@@ -1,7 +1,8 @@
 # Backend
 target/
-*.class
+*.classes
 *.jar
+*.jar.original
 *.war
 .idea/
 *.iml
