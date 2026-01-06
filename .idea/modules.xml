@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/app meusmapas/app meusmapas.iml" filepath="$PROJECT_DIR$/app meusmapas/app meusmapas.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/meusmapas.iml" filepath="$PROJECT_DIR$/.idea/meusmapas.iml" />
-    </modules>
-  </component>
-</project>
