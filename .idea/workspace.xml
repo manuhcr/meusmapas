@@ -4,7 +4,56 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5ce4fac-3bda-467c-8628-fcd88f5db07a" name="Changes" comment="backend separado" />
+    <list default="true" id="e5ce4fac-3bda-467c-8628-fcd88f5db07a" name="Changes" comment="backend e front separados, agr SIIIM">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/MeusmapasApplication_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app meusmapas/app meusmapas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app meusmapas/m2.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app meusmapas/mvn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app meusmapas/mvn.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app meusmapas/mvnDebug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app meusmapas/mvnDebug.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app meusmapas/mvnyjp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/backend/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/backend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/backend/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/.idea/IntelliLang.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/backend/.idea/IntelliLang.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/backend/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/backend/.idea/dictionaries/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/backend/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/backend/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/backend/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/backend/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/backend/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/backend/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/ARQUITETURA.md" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/backend/ARQUITETURA.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/backend/HELP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/backend/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/backend/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/backend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/manoela/meusmapas/MeusmapasApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/backend/src/main/java/com/manoela/meusmapas/MeusmapasApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/manoela/meusmapas/controller/MapaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/backend/src/main/java/com/manoela/meusmapas/controller/MapaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/manoela/meusmapas/exception/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/backend/src/main/java/com/manoela/meusmapas/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/manoela/meusmapas/exception/MapaNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/backend/src/main/java/com/manoela/meusmapas/exception/MapaNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/manoela/meusmapas/exception/PontoNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/backend/src/main/java/com/manoela/meusmapas/exception/PontoNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/manoela/meusmapas/model/Mapa.java" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/backend/src/main/java/com/manoela/meusmapas/model/Mapa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/manoela/meusmapas/model/Ponto.java" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/backend/src/main/java/com/manoela/meusmapas/model/Ponto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/manoela/meusmapas/repository/MapaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/backend/src/main/java/com/manoela/meusmapas/repository/MapaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/manoela/meusmapas/repository/PontoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/backend/src/main/java/com/manoela/meusmapas/repository/PontoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/manoela/meusmapas/service/MapaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/backend/src/main/java/com/manoela/meusmapas/service/MapaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/Diagrama UML de classes Mapa e Ponto.png" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/backend/src/main/resources/Diagrama UML de classes Mapa e Ponto.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/backend/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/relacionamento BD" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/backend/src/main/resources/relacionamento BD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/test/java/com/manoela/meusmapas/MeusmapasApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/backend/src/test/java/com/manoela/meusmapas/MeusmapasApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/frontend/frontend.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/frontend/frontend.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend.iws" beforeDir="false" afterPath="$PROJECT_DIR$/app meusmapas/frontend/frontend.iws" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,15 +109,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.MeusmapasApplication .executor": "Run",
     "Application.MeusmapasApplication.executor": "Run",
     "Application.MeusmapasMain.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/manoe/Downloads/meusmapas/meusmapas",
-    "project.structure.last.edited": "Problems",
+    "last_opened_file_path": "C:/Users/manoe/Downloads/meusmapas/app meusmapas",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
@@ -81,6 +134,7 @@
       <recent name="com.manoela.meusmapas.model" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\manoe\Downloads\meusmapas\app meusmapas" />
       <recent name="C:\Users\manoe\Downloads\meusmapas\meusmapas" />
       <recent name="C:\Users\manoe\Downloads\meusmapas\meusmapas\meusmapas-backend" />
       <recent name="C:\Users\manoe\Downloads\meusmapas\meusmapas\src\main\resources" />
@@ -192,6 +246,11 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Application.MeusmapasApplication " />
+      <item itemvalue="Application.MeusmapasApplication" />
+      <item itemvalue="Application.MeusmapasMain" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.MeusmapasApplication" />
@@ -215,22 +274,36 @@
       <option name="project" value="LOCAL" />
       <updated>1767666116360</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="backend e front separados, agr SIIIM">
+      <option name="closed" value="true" />
+      <created>1767668165625</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1767668165625</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="backend separado" />
-    <option name="LAST_COMMIT_MESSAGE" value="backend separado" />
+    <MESSAGE value="backend e front separados, agr SIIIM" />
+    <option name="LAST_COMMIT_MESSAGE" value="backend e front separados, agr SIIIM" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/backend/src/main/java/com/manoela/meusmapas/MeusmapasApplication.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="8" />
+          <url>file://$PROJECT_DIR$/app meusmapas/backend/src/main/java/com/manoela/meusmapas/MeusmapasApplication.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/meusmapas$MeusmapasApplication.ic" NAME="MeusmapasApplication Coverage Results" MODIFIED="1767668823440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.manoela.meusmapas.*</FILTER>
+    </SUITE>
   </component>
 </project>
