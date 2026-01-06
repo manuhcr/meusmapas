@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5ce4fac-3bda-467c-8628-fcd88f5db07a" name="Changes" comment="gitignore updated">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/meusmapasapp/src/components/Mapa.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,21 +25,33 @@
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;manuhcr&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "CLOSED",
+      "reviewState": "CHANGES_REQUESTED"
+    }
+  ],
+  "lastFilter": {
+    "state": "CLOSED",
+    "reviewState": "CHANGES_REQUESTED"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/manuhcr/meusmapas-backend.git&quot;,
-    &quot;accountId&quot;: &quot;d4bb218f-d01f-48c6-97ce-b2274bf14f35&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/manuhcr/meusmapas.git",
+    "accountId": "8ccc2bf8-09ba-4bce-a685-def95ca70699"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/target/classes/application.properties" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -51,7 +63,7 @@
     </option>
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -64,33 +76,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Application.MeusMapasApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MeusmapasApplication .executor&quot;: &quot;Run&quot;,
-    &quot;Application.MeusmapasApplication.executor&quot;: &quot;Coverage&quot;,
-    &quot;Application.MeusmapasApplicationMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MeusmapasMain.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Whole project (1).executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Whole project.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/manoe/Downloads/meusmapas&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.intentionPowerPack&quot;,
-    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/manoe/Downloads/meusmapas/backend/src/main/java/com/manoela/meusmapas/MeusMapasApplicationMain.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.MeusMapasApplication.executor": "Run",
+    "Application.MeusmapasApplication .executor": "Run",
+    "Application.MeusmapasApplication.executor": "Coverage",
+    "Application.MeusmapasApplicationMain.executor": "Run",
+    "Application.MeusmapasMain.executor": "Run",
+    "JUnit.Whole project (1).executor": "Run",
+    "JUnit.Whole project.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/manoe/Downloads/meusmapas",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.intentionPowerPack",
+    "two.files.diff.last.used.file": "C:/Users/manoe/Downloads/meusmapas/backend/src/main/java/com/manoela/meusmapas/MeusMapasApplicationMain.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.manoela.meusmapas" />
@@ -102,33 +121,14 @@
       <recent name="C:\Users\manoe\Downloads\meusmapas\app meusmapas" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fiver\IdeaProjects\meusmapas\frontend\meusmapasapp" />
+      <recent name="C:\Users\fiver\IdeaProjects\meusmapas\frontend\meusmapasapp\node_modules" />
       <recent name="C:\Users\manoe\Downloads\meusmapas\backend" />
       <recent name="C:\Users\manoe\Downloads\meusmapas" />
       <recent name="C:\Users\manoe\Downloads\meusmapas\target" />
-      <recent name="C:\Users\manoe\Downloads\meusmapas\app meusmapas" />
-      <recent name="C:\Users\manoe\Downloads\meusmapas\meusmapas" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="MeusMapasApplication" />
-      <module name="meusmapas" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backend/src/main/java/com/manoela/meusmapas" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="app meusmapas" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="app meusmapas" />
-      <option name="filePath" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="app meusmapas" />
       <option name="ENV_FILES" value="" />
@@ -197,6 +197,32 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MeusMapasApplication" />
+      <module name="meusmapas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backend/src/main/java/com/manoela/meusmapas" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="app meusmapas" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="app meusmapas" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -205,6 +231,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1766022980538</updated>
+      <workItem from="1767827139473" duration="14412000" />
     </task>
     <task id="LOCAL-00001" summary="backend separado">
       <option name="closed" value="true" />
@@ -296,6 +323,9 @@
     </task>
     <option name="localTasksCounter" value="12" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

@@ -4,8 +4,10 @@ backend/target/
 *.jar
 *.jar.original
 *.war
+# IntelliJ IDEA
 .idea/
 *.iml
+out/
 
 # Frontend
 node_modules/
