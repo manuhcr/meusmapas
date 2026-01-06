@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5ce4fac-3bda-467c-8628-fcd88f5db07a" name="Changes" comment="backend e front separados, agr SIIIM">
+      <change afterPath="$PROJECT_DIR$/.idea/meusmapas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/backend/.idea/jarRepositories.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/manoela/meusmapas/MeusMapasApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/meusmapas.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/MeusmapasApplication_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app meusmapas/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app meusmapas/app meusmapas.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app meusmapas/backend/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.gitattributes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app meusmapas/backend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app meusmapas/backend/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.idea/.gitignore" afterDir="false" />
@@ -24,7 +18,6 @@
       <change beforePath="$PROJECT_DIR$/app meusmapas/backend/.idea/dictionaries/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.idea/dictionaries/project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app meusmapas/backend/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app meusmapas/backend/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app meusmapas/backend/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app meusmapas/backend/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app meusmapas/backend/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app meusmapas/backend/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
@@ -33,7 +26,6 @@
       <change beforePath="$PROJECT_DIR$/app meusmapas/backend/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/backend/mvnw" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app meusmapas/backend/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/backend/mvnw.cmd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app meusmapas/backend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app meusmapas/backend/src/main/java/com/manoela/meusmapas/MeusmapasApplication.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app meusmapas/backend/src/main/java/com/manoela/meusmapas/controller/MapaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/manoela/meusmapas/controller/MapaController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app meusmapas/backend/src/main/java/com/manoela/meusmapas/exception/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/manoela/meusmapas/exception/GlobalExceptionHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app meusmapas/backend/src/main/java/com/manoela/meusmapas/exception/MapaNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/manoela/meusmapas/exception/MapaNotFoundException.java" afterDir="false" />
@@ -46,10 +38,6 @@
       <change beforePath="$PROJECT_DIR$/app meusmapas/backend/src/main/resources/Diagrama UML de classes Mapa e Ponto.png" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/resources/Diagrama UML de classes Mapa e Ponto.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app meusmapas/backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app meusmapas/backend/src/main/resources/relacionamento BD" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/resources/relacionamento BD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app meusmapas/backend/src/test/java/com/manoela/meusmapas/MeusmapasApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/test/java/com/manoela/meusmapas/MeusmapasApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app meusmapas/frontend/frontend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/frontend.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app meusmapas/frontend/frontend.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/frontend.ipr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app meusmapas/frontend/frontend.iws" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/frontend.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +114,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/manoe/Downloads/meusmapas/app meusmapas&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/manoe/Downloads/meusmapas&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -282,8 +270,39 @@
       <option name="project" value="LOCAL" />
       <updated>1767672562618</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="backend e front separados, agr SIIIM">
+      <option name="closed" value="true" />
+      <created>1767709117962</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1767709117962</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="backend separado" />
