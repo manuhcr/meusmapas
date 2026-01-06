@@ -1,0 +1,14 @@
+       Mapa
+   ┌───────────┐
+   │ idMapa    │
+   │ nomeMapa  │
+   │ pontos ──────────────┐
+   └───────────┘         │
+                         │
+                         ▼
+                     Ponto
+                 ┌───────────────┐
+                 │ idPonto       │
+                 │ nomePonto     │
+                 │ mapa ─────────┘  (aponta de volta pro Mapa)
+                 └───────────────┘
