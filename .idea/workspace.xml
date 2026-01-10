@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5ce4fac-3bda-467c-8628-fcd88f5db07a" name="Changes" comment="gitignore updated">
-      <change afterPath="$PROJECT_DIR$/frontend/meusmapasapp/src/components/Mapa.jsx" afterDir="false" />
+    <list default="true" id="e5ce4fac-3bda-467c-8628-fcd88f5db07a" name="Changes" comment="idea iml removido">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/meusmapasapp/src/components/Mapa.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/meusmapasapp/src/components/Mapa.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,24 +35,24 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "history": [
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
     {
-      "state": "CLOSED",
-      "reviewState": "CHANGES_REQUESTED"
+      &quot;state&quot;: &quot;CLOSED&quot;,
+      &quot;reviewState&quot;: &quot;CHANGES_REQUESTED&quot;
     }
   ],
-  "lastFilter": {
-    "state": "CLOSED",
-    "reviewState": "CHANGES_REQUESTED"
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;CLOSED&quot;,
+    &quot;reviewState&quot;: &quot;CHANGES_REQUESTED&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/manuhcr/meusmapas.git",
-    "accountId": "8ccc2bf8-09ba-4bce-a685-def95ca70699"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/manuhcr/meusmapas.git&quot;,
+    &quot;accountId&quot;: &quot;8ccc2bf8-09ba-4bce-a685-def95ca70699&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/target/classes/application.properties" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -76,40 +77,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.MeusMapasApplication.executor": "Run",
-    "Application.MeusmapasApplication .executor": "Run",
-    "Application.MeusmapasApplication.executor": "Coverage",
-    "Application.MeusmapasApplicationMain.executor": "Run",
-    "Application.MeusmapasMain.executor": "Run",
-    "JUnit.Whole project (1).executor": "Run",
-    "JUnit.Whole project.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/manoe/Downloads/meusmapas",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.intentionPowerPack",
-    "two.files.diff.last.used.file": "C:/Users/manoe/Downloads/meusmapas/backend/src/main/java/com/manoela/meusmapas/MeusMapasApplicationMain.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.MeusMapasApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MeusmapasApplication .executor&quot;: &quot;Run&quot;,
+    &quot;Application.MeusmapasApplication.executor&quot;: &quot;Coverage&quot;,
+    &quot;Application.MeusmapasApplicationMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MeusmapasMain.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Whole project (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Whole project.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/manoe/Downloads/meusmapas&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.intentionPowerPack&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/manoe/Downloads/meusmapas/backend/src/main/java/com/manoela/meusmapas/MeusMapasApplicationMain.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.manoela.meusmapas" />
@@ -221,6 +222,7 @@
     <attachedChunks>
       <set>
         <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.138" />
       </set>
     </attachedChunks>
   </component>
@@ -231,7 +233,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1766022980538</updated>
-      <workItem from="1767827139473" duration="14412000" />
+      <workItem from="1767827139473" duration="14522000" />
+      <workItem from="1767991729033" duration="9022000" />
     </task>
     <task id="LOCAL-00001" summary="backend separado">
       <option name="closed" value="true" />
@@ -321,7 +324,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767711061304</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="idea iml removido">
+      <option name="closed" value="true" />
+      <created>1767843926853</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1767843926854</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -355,7 +366,20 @@
     <MESSAGE value="backend e front separados, agr SIIIM" />
     <MESSAGE value="gitignore" />
     <MESSAGE value="gitignore updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore updated" />
+    <MESSAGE value="começo da tela 1" />
+    <MESSAGE value="idea iml removido" />
+    <option name="LAST_COMMIT_MESSAGE" value="idea iml removido" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/frontend/meusmapasapp/src/components/Mapa.jsx</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/meusmapas$MeusmapasApplication.ic" NAME="MeusmapasApplication Coverage Results" MODIFIED="1767674899426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
